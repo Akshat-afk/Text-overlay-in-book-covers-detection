@@ -1,9 +1,11 @@
 fastapi
 uvicorn
-requests
-sendgrid
-pillow
 opencv-python
-easyocr
+pillow
 numpy
 imutils
+easyocr
+python-dotenv
+requests
+pyairtable
+gunicorn
