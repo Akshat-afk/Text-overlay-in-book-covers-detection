@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+sendgrid
+pillow
+opencv-python
+easyocr
+numpy
+imutils
